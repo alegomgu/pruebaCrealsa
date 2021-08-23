@@ -53,3 +53,5 @@ C:\Users\alego\Desktop\Repositorio\pruebaCrealsa\pruebaCREALSA.Tests\obj\Debug\p
 C:\Users\alego\Desktop\Repositorio\pruebaCrealsa\pruebaCREALSA.Tests\obj\Debug\pruebaCREALSA.Tests.pdb
 C:\Users\alego\Desktop\Repositorio\pruebaCrealsa\pruebaCREALSA.Tests\bin\Debug\EntityFramework.dll
 C:\Users\alego\Desktop\Repositorio\pruebaCrealsa\pruebaCREALSA.Tests\bin\Debug\EntityFramework.xml
+C:\Users\alego\Desktop\Repositorio\pruebaCrealsa\pruebaCREALSA.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alego\Desktop\Repositorio\pruebaCrealsa\pruebaCREALSA.Tests\bin\Debug\EntityFramework.SqlServer.xml
